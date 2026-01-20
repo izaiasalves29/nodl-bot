@@ -1,0 +1,1 @@
+print("NODL bot iniciando...")
